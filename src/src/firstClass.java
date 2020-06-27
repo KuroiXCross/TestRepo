@@ -2,7 +2,7 @@ package PACKAGE_NAME;
 
 public class firstClass {
     private int code = 27078;
-    private int randomNumber = 12376215371523861;
+    private int randomNumber = 1523861;
 
     public firstClass(int code, int randomNumber) {
         this.code = code;
